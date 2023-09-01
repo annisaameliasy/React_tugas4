@@ -1,0 +1,8 @@
+Folder apprestapi adalah berisikan code API/JSON
+Folder tugas4 adalah berisikan code aplikasi react
+
+1. nyalakan xampp untuk start mysql
+2. pada folder apprestapi, tuliskan "node server" pada terminal
+3. cek JSON pada localhost:3001
+4. pada folder tugas4 , tuliskan "npm start" pada terminal
+5. cek react pada localhost:3000
